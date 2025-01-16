@@ -2,3 +2,5 @@
 Power converter hardware design for next-gen MPPT. 
 Largely based on a design made by Alex Hanson, outlined in this article:
 https://ieeexplore.ieee.org/document/7749103/footnotes#footnotes-id-fn9
+
+Ishaan added the description which has nothing to do with the project and I can't change it. :3
