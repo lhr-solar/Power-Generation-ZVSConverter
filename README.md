@@ -9,3 +9,5 @@ TODO:
   Refine cap values  
   Find max frequency that can support needed boosting  
   Characterize duty cycle effect on output voltage
+
+Note: The "Reader" script will play a sound on completion. Don't be alarmed by it.
