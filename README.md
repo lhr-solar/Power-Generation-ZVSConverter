@@ -7,5 +7,5 @@ Ishaan added the description which has nothing to do with the project and I can'
 
 TODO:  
   Refine cap values  
-  Find max frequency that can support needed boosting
+  Find max frequency that can support needed boosting  
   Characterize duty cycle effect on output voltage
