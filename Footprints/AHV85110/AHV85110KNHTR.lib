@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model AHV85110KNHTR
+#/17185214/1521462/2.50/12/2/Integrated Circuit
+DEF AHV85110KNHTR IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "AHV85110KNHTR" 1150 200 50 H V L CNN
+F2 "AHV85110KNHTR" 1150 100 50 H I L CNN
+F3 "https://www.allegromicro.com/~/media/files/datasheets/AHV85110-Full-Datasheet" 1150 0 50 H I L CNN
+F4 "Self-Powered Single-Channel Isolated GaNFET Driver with Power-Thru Integrated Isolated Bias Supply" 1150 -100 50 H I L CNN "Description"
+F5 "2.51" 1150 -200 50 H I L CNN "Height"
+F6 "250-AHV85110KNHTR" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/AHV85110KNHTR?qs=1Kr7Jg1SGW%252BG1grRz1%252BF1A%3D%3D" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Allegro Microsystems" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "AHV85110KNHTR" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X GND_1 1 0 0 200 R 50 50 0 0 P
+X SEL 2 0 -100 200 R 50 50 0 0 P
+X EN 3 0 -200 200 R 50 50 0 0 P
+X IN 4 0 -300 200 R 50 50 0 0 P
+X VDRV 5 0 -400 200 R 50 50 0 0 P
+X GND_2 6 0 -500 200 R 50 50 0 0 P
+X OUTSS_1 7 1300 -500 200 L 50 50 0 0 P
+X VSEC 8 1300 -400 200 L 50 50 0 0 P
+X OUTSS_2 9 1300 -300 200 L 50 50 0 0 P
+X OUTSS_3 10 1300 -200 200 L 50 50 0 0 P
+X OUTPD 11 1300 -100 200 L 50 50 0 0 P
+X OUTPU 12 1300 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
