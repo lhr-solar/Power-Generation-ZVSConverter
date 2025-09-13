@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B82559B0303A019
+D SMD / SMT Inductors (Coils), L=30.0uH, 18.5mm x 19.9mm 30 H Shielded Wirewound Inductor 8.6 A 17mOhm Nonstandard, 3 Lead -
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/ds/b82559b_a019.pdf
+$ENDCMP
+#
+#End Doc Library
