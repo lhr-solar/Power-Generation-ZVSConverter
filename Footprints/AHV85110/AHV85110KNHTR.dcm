@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AHV85110KNHTR
+D Self-Powered Single-Channel Isolated GaNFET Driver with Power-Thru Integrated Isolated Bias Supply
+K
+F https://www.allegromicro.com/~/media/files/datasheets/AHV85110-Full-Datasheet
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IGL65R080D2XUMA1
+D 650 V 18A (Tc) 81W (Tc) Surface Mount, Wettable Flank PG-TSON-8-U06
+K
+F https://www.infineon.com/assets/row/public/documents/24/49/infineon-igl65r080d2-datasheet-en.pdf
+$ENDCMP
+#
+#End Doc Library

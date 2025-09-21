@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STB11NK50ZT4
+D N-Channel 500 V 10A (Tc) 125W (Tc) Surface Mount D2PAK 10V 520mOhm  100A 125W (Tc) -55C ~ 150C (TJ)
+K
+F https://www.st.com/resource/en/datasheet/stb11nk50z.pdf
+$ENDCMP
+#
+#End Doc Library
